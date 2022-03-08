@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-halo",
+  "name": "eslint-config-stringsaeed",
   "version": "1.0.0",
   "description": "eslint config for react, react-native, and node",
   "main": "react-native.js",
