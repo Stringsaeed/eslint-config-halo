@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-halo",
+  "version": "1.0.0",
+  "description": "eslint config for react, react-native, and node",
+  "main": "react-native.js",
+  "repository": "https://www.github.com/stringsaeed/eslint-config-halo",
+  "author": "Muhammed Saeed",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/eslint-parser": "^7.17.0",
+    "@typescript-eslint/eslint-plugin": "^5.14.0",
+    "@typescript-eslint/parser": "^5.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-flowtype": "^8.0.3",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jest": "^26.1.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.29.3",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "eslint-plugin-react-native": "^4.0.0",
+    "prettier": "^2.5.1",
+    "typescript": "^4.6.2"
+  },
+  "peerDependencies": {
+    "eslint": ">=8"
+  },
+  "devDependencies": {
+    "eslint": "^8.10.0"
+  }
+}
