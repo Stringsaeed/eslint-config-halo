@@ -19,6 +19,10 @@ module.exports = {
       node: {
         extensions: [".js", ".jsx", ".ts", ".tsx", ".d.ts"],
       },
+      typescript: {
+        alwaysTryTypes: true,
+        project: "tsconfig.json",
+      },
     },
   },
   plugins: [

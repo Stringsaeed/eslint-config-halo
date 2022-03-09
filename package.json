@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-stringsaeed",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "eslint config for react, react-native, and node",
   "main": "react-native.js",
   "repository": "https://www.github.com/stringsaeed/eslint-config-halo",
@@ -13,6 +13,7 @@
     "@typescript-eslint/eslint-plugin": "^5.14.0",
     "@typescript-eslint/parser": "^5.14.0",
     "eslint-config-prettier": "^8.5.0",
+    "eslint-import-resolver-typescript": "^2.5.0",
     "eslint-plugin-flowtype": "^8.0.3",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-jest": "^26.1.1",
